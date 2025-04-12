@@ -36,11 +36,13 @@ from PyQt5.QtWidgets import *
 from VA_GUI import Ui_MainWindow
 
 completion = openai.Completion()
-global weather, netspeed, battery,IP_Address
-weather=Display.temperature()
-netspeed=Display.InternetSpeed()
+global weather, netspeed, battery, IP_Address
+weather = Display.temperature()
+if "error" in weather.lower() or "could not" in weather.lower():
+    weather = "Weather information currently unavailable"
+netspeed = Display.InternetSpeed()
 battery = Display.Battery_condition()
-IP_Address=Display.IP()
+IP_Address = Display.IP()
 
 
 class MainThread(QThread):
@@ -541,11 +543,11 @@ class MainThread(QThread):
         import pyautogui as p
 
         try:
-            p.press('win')
+            p.press("win")
             time.sleep(2)
-            p.write('Whatsapp')
+            p.write("Whatsapp")
             time.sleep(2)
-            p.press('enter')
+            p.press("enter")
             self.say("Boss! Who do you want to send the message to?")
             p.write(self.take_command())
             p.hotkey("ctrl", "1")
@@ -810,11 +812,9 @@ class Main(QMainWindow):
         self.ui.textBrowser_7.setText(IP_Address)
         self.ui.textBrowser_9.setText(f"Battery \n {battery}%")
 
-    
-
 
 current_path = os.getcwd()
 app = QApplication(sys.argv)
 jarvis = Main(paths=current_path)
-jarvis.show()          
+jarvis.show()
 exit(app.exec_())
