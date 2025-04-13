@@ -12,7 +12,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 
 ## 📑 Table of Contents
 
-- [✨ Features](#-features)
+- [✨ Features](## Features)
 - [🧰 Tools & Technologies Used](#-tools--technologies-used)
 - [📁 Project Files](#-project-files)
 - [⚙️ How to Use (Setup)](#️-how-to-use-setup)
