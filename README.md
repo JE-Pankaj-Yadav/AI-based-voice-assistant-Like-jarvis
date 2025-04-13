@@ -60,7 +60,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 - Joke telling
 - Interactive conversations
 
-## 📁 Productivity Tools
+## Productivity Tools
 - PDF reading
 - Remembering notes/tasks
 - Shopping site access
