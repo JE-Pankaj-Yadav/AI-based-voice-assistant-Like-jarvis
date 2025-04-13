@@ -13,11 +13,11 @@ This AI-based voice assistant is designed to function like a personal digital as
 ## 📑 Table of Contents
 
 - [✨ Features](#-features)
-- [🧰 Tools & Technologies Used](#-tools--technologies-used)
-- [📁 Project Files](#-project-files)
-- [⚙️ How to Use (Setup)](#️-how-to-use-setup)
-- [📹 Demo (Coming Soon)](#-demo-coming-soon)
-- [📝 Notes](#-notes)
+- [🧰 System Control](#-System-Control)
+- [📜 Information Services](#-Information-Services)
+- [📹 Communication Tools)](#️-Communication-Tools)
+- [📹 Entertainment](#-Entertainment)
+- [📁 Productivity Tools](#-Productivity-Tools)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [👨‍💻 Developer Info](#-developer-info)
@@ -32,7 +32,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 - **Text-to-Speech**: Provides audible responses using text-to-speech synthesis
 - **Multi-tasking**: Capable of handling various tasks simultaneously
 
-### System Control
+# 🧰 System Control
 - Open/close applications
 - System monitoring (battery, CPU usage)
 - System power management (shutdown, restart, sleep)
@@ -40,7 +40,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 - Screenshot capture
 - WiFi password retrieval
 
-### Information Services
+# 📜 Information Services
 - Weather forecasts
 - Internet speed testing
 - IP address information
@@ -49,18 +49,18 @@ This AI-based voice assistant is designed to function like a personal digital as
 - News updates
 - Time and date information
 
-### Communication Tools
+# 📹 Communication Tools
 - WhatsApp message sending
 - Email functionality
 - Contact management (add, display contacts)
 - Phone number tracking/location
 
-### Entertainment
+# 📹 Entertainment
 - Music playback
 - Joke telling
 - Interactive conversations
 
-### Productivity Tools
+# 📁 Productivity Tools
 - PDF reading
 - Remembering notes/tasks
 - Shopping site access
