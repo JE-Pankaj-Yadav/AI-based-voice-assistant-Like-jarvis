@@ -1,31 +1,37 @@
-# AI-based-voice-assistant-Like-jarvis
-An AI-based voice assistant, like Jarvis, is like having a smart friend in your device. It listens to your voice and helps you with things, just like talking to a buddy. Imagine asking it to set a reminder, play your favorite music, or even tell you a joke!
-<br>
-
 # AI Voice Assistant - Jarvis-like Assistant
-
 
 ## Overview
 
-This AI-based voice assistant is designed to function like a personal digital assistant, similar to Jarvis from Iron Man. It can perform a wide range of tasks through voice commands, including opening applications, searching the web, managing contacts, checking weather, controlling system functions, and much more. The assistant features a graphical user interface (GUI) for visual feedback and interaction.
+This AI-based voice assistant is designed to function like a personal digital assistant, similar to Jarvis from Iron Man. It can perform a wide range of tasks through voice commands, including opening applications, searching the web, managing contacts, checking weather, controlling system functions, and much more. The assistant features a graphical user interface (GUI) for visual feedback and interaction.<br>
 
+An AI-based voice assistant, like Jarvis, is like having a smart friend in your device. It listens to your voice and helps you with things, just like talking to a buddy. Imagine asking it to set a reminder, play your favorite music, or even tell you a joke! <br>
 
 ## 📑 Table of Contents
 
-- [✨ Features](#-features)
-- [🧰 System Control](#-System-Control)
-- [📜 Information Services](#-Information-Services)
-- [📹 Communication Tools)](#️-Communication-Tools)
-- [📹 Entertainment](#-Entertainment)
-- [📁 Productivity Tools](#-Productivity-Tools)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👨‍💻 Developer Info](#-developer-info)
-- [⭐ Support](#-support)
+- [AI Voice Assistant - Jarvis-like Assistant](#ai-voice-assistant---jarvis-like-assistant)
+  - [Overview](#overview)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [✨ Features](#-features)
+    - [Core Functionalities](#core-functionalities)
+  - [🧰 System Control](#-system-control)
+  - [📜 Information Services](#-information-services)
+  - [📹 Communication Tools](#-communication-tools)
+  - [📹 Entertainment](#-entertainment)
+  - [📁 Productivity Tools](#-productivity-tools)
+  - [⚙️ Technical Specifications](#️-technical-specifications)
+    - [Technologies Used](#technologies-used)
+    - [Requirements](#requirements)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Example Commands](#example-commands)
+  - [📁 Project Structure](#-project-structure)
+  - [📝 Known Limitations](#-known-limitations)
+  - [👨‍💻 Future Enhancements](#-future-enhancements)
+  - [📜 License](#-license)
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 ### Core Functionalities
 - **Voice Recognition**: Listens and responds to voice commands using speech recognition
@@ -60,13 +66,13 @@ This AI-based voice assistant is designed to function like a personal digital as
 - Joke telling
 - Interactive conversations
 
-## Productivity Tools
+## 📁 Productivity Tools
 - PDF reading
 - Remembering notes/tasks
 - Shopping site access
 - Social media integration (Instagram profile access)
 
-## Technical Specifications
+##  ⚙️ Technical Specifications
 
 ### Technologies Used
 - Python 3.x
@@ -87,7 +93,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pankajyadavup53/AI-based-voice-assistant-Like-jarvis.git
+   git clone https://github.com/JE-Pankaj-Yadav/AI-based-voice-assistant-Like-jarvis.git
    cd AI-based-voice-assistant-Like-jarvis
    ```
 
@@ -119,7 +125,7 @@ This AI-based voice assistant is designed to function like a personal digital as
 - "What's the time?"
 - "Shutdown the system"
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 AI-based-voice-assistant-Like-jarvis/
@@ -135,14 +141,14 @@ AI-based-voice-assistant-Like-jarvis/
 └── images/                  # GUI assets
 ```
 
-## Known Limitations
+## 📝 Known Limitations
 
 - Primarily designed for Windows systems
 - Some features require internet connectivity
 - Voice recognition accuracy may vary based on microphone quality
 - Certain system-specific paths may need adjustment for different environments
 
-## Future Enhancements
+## 👨‍💻 Future Enhancements
 
 - Cross-platform compatibility
 - Enhanced natural language processing
@@ -150,7 +156,7 @@ AI-based-voice-assistant-Like-jarvis/
 - Machine learning for personalized responses
 - Mobile app version
 
-## License
+## 📜 License
 
 This project is open-source and available for personal and educational use. For commercial use, please contact the author.
 
